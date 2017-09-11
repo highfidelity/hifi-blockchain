@@ -4,3 +4,6 @@
 [submodule "lib/confidential-assets-demo"]
 	path = lib/confidential-assets-demo
 	url = https://github.com/ElementsProject/confidential-assets-demo
+[submodule "lib/elementsbp-api-reference"]
+	path = lib/elementsbp-api-reference
+	url = https://github.com/ElementsProject/elementsbp-api-reference
