@@ -1,3 +1,6 @@
 [submodule "lib/elements"]
 	path = lib/elements
 	url = https://github.com/highfidelity/elements
+[submodule "lib/confidential-assets-demo"]
+	path = lib/confidential-assets-demo
+	url = https://github.com/ElementsProject/confidential-assets-demo
