@@ -1,0 +1,3 @@
+[submodule "lib/elements"]
+	path = lib/elements
+	url = https://github.com/highfidelity/elements
