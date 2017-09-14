@@ -7,3 +7,6 @@
 [submodule "lib/elementsbp-api-reference"]
 	path = lib/elementsbp-api-reference
 	url = https://github.com/ElementsProject/elementsbp-api-reference
+[submodule "lib/bitcoin"]
+	path = lib/bitcoin
+	url = https://github.com/bitcoin/bitcoin
