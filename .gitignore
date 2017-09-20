@@ -28,6 +28,7 @@
 *.gcda
 
 build
+node_modules
 
 Makefile
 Makefile.in
