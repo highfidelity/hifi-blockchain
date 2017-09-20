@@ -1,0 +1,28 @@
+{
+  "name": "elements-node-rpc",
+  "version": "0.1.0",
+  "description": "RPC Client Library to connect to an Elements (elementsd) server.",
+  "main": "lib/index.js",
+  "author": "High Fidelity",
+  "contributors": [
+    {
+      "name": "Justin Thomas",
+      "email": "justin@highfidelity.io"
+    }
+  ],
+  "devDependencies": {
+    "clone": "^2.1.1",
+    "mocha": "^3.5.3",
+    "standard": "^10.0.3"
+  },
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "scripts": {
+    "test": "node_modules/.bin/mocha test -R spec"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "license": "Unlicense"
+}
