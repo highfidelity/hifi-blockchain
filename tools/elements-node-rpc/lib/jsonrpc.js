@@ -44,7 +44,7 @@ class Client {
             requestOptions.auth = this.options.user + ":" + this.options.password;
         }
 
-        // sent the request and wrap in a promise
+        // send the request and wrap in a promise
         return new Promise((resolve, reject) => {
             const request = this.mHttpClient.request(requestOptions);
 
